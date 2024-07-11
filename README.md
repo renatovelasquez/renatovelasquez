@@ -32,11 +32,11 @@ Software Engineer
     </picture>
     </a>
       <a href="https://www.stackoverflow.com/users/2136233/renato-velasquez" target="_blank" rel="noreferrer">
-    <picture>
+<!--     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-    </picture>
+    </picture> -->
     </a>
       <a href="https://www.x.com/renatovelasquez" target="_blank" rel="noreferrer">
     <picture>
