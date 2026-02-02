@@ -6,7 +6,6 @@ Software Engineer
 
 "Everything in life is a mind game! Whenever we get swept under by life’s dramas, large and small, we are forgetting that no matter how bad the pain gets, no matter how harrowing the torture, all bad things end." -D. Goggins. For me this works as a reminder that we can conquer and overcome anything life throws our way, to emerge stronger and wiser on the other side.
 
-*   🌍  I'm based in Tallinn
 *   🖥️  See my portfolio at [my website](http://renatovelasquez.github.io/)
 *   ✉️  You can contact me at [velasquez.renato@hotmail.com](mailto:velasquez.renato@hotmail.com)
 
